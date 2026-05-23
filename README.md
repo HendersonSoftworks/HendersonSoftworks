@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my humble repo! I'm a...
+
+## Coder 💾
+## Dungeon Master 🎲
+## Writer 📖
 
 <!--
 **HendersonSoftworks/HendersonSoftworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
