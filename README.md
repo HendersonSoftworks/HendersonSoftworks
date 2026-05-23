@@ -4,6 +4,9 @@
 ## Dungeon Master 🎲
 ## Writer 📖
 
+# If you would like to work with me on a project, please send an email to:
+thomas.henderson@hendersonsoftworks.com
+
 <!--
 **HendersonSoftworks/HendersonSoftworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
